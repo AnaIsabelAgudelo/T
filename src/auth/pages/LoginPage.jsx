@@ -23,9 +23,7 @@ export const LoginPage = () => {
     const isValidLogin = await login(email, password);
 
     if (isValidLogin) {
-      const lastPath = localStorage.getItem('lastPath') || "/"
-
-      navigate(lastPath, {
+      navigate("/home", {
         replace: true,
       });
     }  
