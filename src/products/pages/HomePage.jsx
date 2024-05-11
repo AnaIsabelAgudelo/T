@@ -70,7 +70,7 @@ export const HomePage = () => {
                 flexDirection: "row",
                 justifyContent: "center",
                 alignItems: "center",
-                fontFamily:"cursive"
+                fontFamily: "cursive",
               }}
             >
               VENTAS
@@ -101,7 +101,7 @@ export const HomePage = () => {
                 flexDirection: "row",
                 justifyContent: "center",
                 alignItems: "center",
-                fontFamily:"cursive"
+                fontFamily: "cursive",
               }}
             >
               INVENTARIO
@@ -132,7 +132,7 @@ export const HomePage = () => {
                 flexDirection: "row",
                 justifyContent: "center",
                 alignItems: "center",
-                fontFamily:"cursive"
+                fontFamily: "cursive",
               }}
             >
               INFORME
